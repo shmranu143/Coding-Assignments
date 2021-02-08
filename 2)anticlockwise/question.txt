@@ -1,0 +1,11 @@
+Given an N*N matrix. Print the elements of the matrix in anticlockwise order (see the sample for better understanding).
+
+Input-----
+First line contains N.
+N lines follow each containing N space seperated integers.
+
+Constraints:-
+2 <= N <= 500
+1 <= Mat[i][j] <= 1000
+Output-------
+Output N*N integers in a single line separated by spaces, which are the elements of the matrix in anti-clockwise order.
